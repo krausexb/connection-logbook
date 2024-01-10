@@ -1,4 +1,4 @@
-# Deloyment
+# Deployment
 
 ## Deploy
 - Install Typescript and the CDK
